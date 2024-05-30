@@ -14,13 +14,13 @@
 	"carvers": {},
 	"features": [
 		[
-			"grid:white_ground"
+			"grid_dimension:white_ground"
 		],
 		[
-			"grid:black_lines/west",
-			"grid:black_lines/north",
-			"grid:black_lines/east",
-			"grid:black_lines/south"
+			"grid_dimension:black_lines/west",
+			"grid_dimension:black_lines/north",
+			"grid_dimension:black_lines/east",
+			"grid_dimension:black_lines/south"
 		]
 	]
 }

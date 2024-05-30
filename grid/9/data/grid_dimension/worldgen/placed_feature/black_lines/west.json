@@ -1,5 +1,5 @@
 {
-	"feature": "grid:black_lines/west",
+	"feature": "grid_dimension:black_lines/west",
 	"placement": [
 		{
 			"type": "minecraft:heightmap",

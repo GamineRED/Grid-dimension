@@ -3,10 +3,10 @@
 	"generator": {
 		"type": "minecraft:noise",
 		"seed": 0,
-		"settings": "grid:void",
+		"settings": "grid_dimension:void",
 		"biome_source": {
 			"type": "minecraft:fixed",
-			"biome": "grid:"
+			"biome": "grid_dimension:"
 		}
 	}
 }
