@@ -1,0 +1,9 @@
+{
+	"replace": false,
+	"values": [
+		"grid_dimension:lines/west",
+		"grid_dimension:lines/north",
+		"grid_dimension:lines/east",
+		"grid_dimension:lines/south"
+	]
+}

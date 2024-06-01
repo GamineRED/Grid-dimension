@@ -5,6 +5,6 @@
 			"min_inclusive": 16,
 			"max_inclusive": 41
 		},
-		"description": "A simple, white on black grid dimension"
+		"description": "A simple, white on black grid dimension\nCommonized with checkerboard dimension"
 	}
 }

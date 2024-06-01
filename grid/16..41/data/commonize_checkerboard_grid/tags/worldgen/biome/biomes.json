@@ -1,0 +1,7 @@
+{
+	"replace": false,
+	"values": [
+		"commonize_checkerboard_grid:base",
+		"#commonize_checkerboard_grid:checkerboard_second"
+	]
+}

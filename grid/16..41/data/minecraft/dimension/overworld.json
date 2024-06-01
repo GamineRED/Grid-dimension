@@ -2,11 +2,11 @@
 	"type": "minecraft:overworld",
 	"generator": {
 		"type": "minecraft:noise",
-		"seed": 0,
-		"settings": "grid_dimension:void",
+		"settings": "commonize_checkerboard_grid:void",
 		"biome_source": {
-			"type": "minecraft:fixed",
-			"biome": "grid_dimension:"
+			"type": "minecraft:checkerboard",
+			"scale": 0,
+			"biomes": "#commonize_checkerboard_grid:biomes"
 		}
 	}
 }
