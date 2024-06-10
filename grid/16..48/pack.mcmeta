@@ -3,7 +3,7 @@
 		"pack_format": 18,
 		"supported_formats": {
 			"min_inclusive": 16,
-			"max_inclusive": 41
+			"max_inclusive": 48
 		},
 		"description": "A simple, white on black grid dimension"
 	}
