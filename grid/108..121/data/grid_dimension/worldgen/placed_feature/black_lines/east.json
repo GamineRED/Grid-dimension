@@ -1,0 +1,15 @@
+{
+  "feature": "grid_dimension:black_lines/east",
+  "placement": [
+    {
+      "type": "minecraft:heightmap",
+      "heightmap": "WORLD_SURFACE"
+    },
+    {
+      "type": "minecraft:offset",
+      "x": 15,
+      "y": -1,
+      "z": 15
+    }
+  ]
+}

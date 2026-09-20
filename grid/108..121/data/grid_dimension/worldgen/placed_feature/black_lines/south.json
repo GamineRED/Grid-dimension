@@ -1,0 +1,15 @@
+{
+  "feature": "grid_dimension:black_lines/south",
+  "placement": [
+    {
+      "type": "minecraft:heightmap",
+      "heightmap": "MOTION_BLOCKING"
+    },
+    {
+      "type": "minecraft:offset",
+      "x": 15,
+      "y": -1,
+      "z": 15
+    }
+  ]
+}
